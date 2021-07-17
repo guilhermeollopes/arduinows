@@ -1,0 +1,8 @@
+{
+  "execPath": "/home/guiollopes/.platformio/packages/toolchain-atmelavr/bin/avr-g++",
+  "gccDefaultCFlags": "-fsyntax-only -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -D__AVR_ATmega328P__",
+  "gccDefaultCppFlags": "-fsyntax-only -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -D__AVR_ATmega328P__",
+  "gccErrorLimit": 15,
+  "gccIncludePaths": "/home/guiollopes/Documentos/Projetos/Estacao Ferro de Solda/include,/home/guiollopes/Documentos/Projetos/Estacao Ferro de Solda/src,/home/guiollopes/.platformio/packages/framework-arduino-avr/cores/arduino,/home/guiollopes/.platformio/packages/framework-arduino-avr/variants/standard,/home/guiollopes/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src,/home/guiollopes/.platformio/packages/framework-arduino-avr/libraries/HID/src,/home/guiollopes/.platformio/packages/framework-arduino-avr/libraries/SPI/src,/home/guiollopes/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src,/home/guiollopes/.platformio/packages/framework-arduino-avr/libraries/Wire/src,/home/guiollopes/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include,/home/guiollopes/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include-fixed,/home/guiollopes/.platformio/packages/toolchain-atmelavr/avr/include",
+  "gccSuppressWarnings": false
+}

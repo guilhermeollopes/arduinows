@@ -1,0 +1,18 @@
+-I/home/guiollopes/Documentos/Projetos/Estacao Ferro de Solda/include
+-I/home/guiollopes/Documentos/Projetos/Estacao Ferro de Solda/src
+-I/home/guiollopes/.platformio/packages/framework-arduino-avr/cores/arduino
+-I/home/guiollopes/.platformio/packages/framework-arduino-avr/variants/standard
+-I/home/guiollopes/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src
+-I/home/guiollopes/.platformio/packages/framework-arduino-avr/libraries/HID/src
+-I/home/guiollopes/.platformio/packages/framework-arduino-avr/libraries/SPI/src
+-I/home/guiollopes/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src
+-I/home/guiollopes/.platformio/packages/framework-arduino-avr/libraries/Wire/src
+-I/home/guiollopes/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include
+-I/home/guiollopes/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include-fixed
+-I/home/guiollopes/.platformio/packages/toolchain-atmelavr/avr/include
+-DPLATFORMIO=50101
+-DARDUINO_AVR_UNO
+-DF_CPU=16000000L
+-DARDUINO_ARCH_AVR
+-DARDUINO=10808
+-D__AVR_ATmega328P__
